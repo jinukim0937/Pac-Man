@@ -14,14 +14,14 @@
 
 # Demo
 
-![image_01](/Volumes/Crucial X6/이전 자료/학부/학부 수업/20-1학기/C_programing(20년 여름방학)/프로젝트/_image/image_01.png)
+![image_01](./_image/image_01.png)
 
-![image_02](/Volumes/Crucial X6/이전 자료/학부/학부 수업/20-1학기/C_programing(20년 여름방학)/프로젝트/_image/image_02.png)
+![image_02](./_image/image_02.png)
 
-![image_03](/Volumes/Crucial X6/이전 자료/학부/학부 수업/20-1학기/C_programing(20년 여름방학)/프로젝트/_image/image_03.png)
+![image_03](./_image/image_03.png)
 
-![image_04](/Volumes/Crucial X6/이전 자료/학부/학부 수업/20-1학기/C_programing(20년 여름방학)/프로젝트/_image/image_04.png)
+![image_04](./_image/image_04.png)
 
-![image_05](/Volumes/Crucial X6/이전 자료/학부/학부 수업/20-1학기/C_programing(20년 여름방학)/프로젝트/_image/image_05.png)
+![image_05](./_image/image_05.png)
 
-![image_06](/Volumes/Crucial X6/이전 자료/학부/학부 수업/20-1학기/C_programing(20년 여름방학)/프로젝트/_image/image_06.png)
+![image_06](./_image/image_06.png)
