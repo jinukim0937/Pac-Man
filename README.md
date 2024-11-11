@@ -4,6 +4,9 @@
 
 2020년 여름방학 SW 집중교육 프로그램(C 집중교육)의 최종 프로젝트로 제작한 간단한 PacMan 게임 프로그램이다.
 
+![image_07](./_image/image_07.png)
+
+![image_08](./_image/image_08.png)
 
 
 ## 팀원
